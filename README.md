@@ -4,4 +4,5 @@ Extract data from JSON file and save it in a text file in list format. Feel free
 # Dependencies
 Make sure you install jmespath
 
-To install it: pip install jmespath
+# To install JMESPath
+python3 -m pip install jmespath
